@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="GB2312" standalone="no"?>
+<configuration>
+<excelfile>201508.xls</excelfile>
+<absoluterootpath>d:</absoluterootpath>
+<year>2015</year>
+<month>08</month>
+<selectedidlist>1</selectedidlist>
+<selectednamelist>3</selectednamelist>
+<selecteddatelist>5</selecteddatelist>
+<selectedinlist>9</selectedinlist>
+<selectedoutlist>10</selectedoutlist>
+<selectedtimelist>25</selectedtimelist>
+<idlist>0</idlist>
+<namelist>1</namelist>
+<datelist>2</datelist>
+<inlist>3</inlist>
+<outlist>4</outlist>
+<timelist>5</timelist>
+</configuration>
